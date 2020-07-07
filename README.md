@@ -5,7 +5,7 @@ Xiuno BBS 4.0 是一款轻论坛产品，前端基于 BootStrap 4.0、JQuery 3�
 
 自适应手机、平板、PC，有着非常方便的插件机制，不仅仅是一个轻论坛，还是一个良好的二次开发平台。
 
-git： https://git.oschina.net/xiuno/xiunobbs.git
+主仓库地址 git： https://git.oschina.net/xiuno/xiunobbs.git （已经无法访问）
 
 ### 【Xiuno BBS 4.0 带来了什么？】
 前端采用 BootStrap 4 + JQuery 3，响应式布局，自适应手机，平板，PC 设备，不再需要单独开发移动版本。
